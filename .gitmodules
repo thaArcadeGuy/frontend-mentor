@@ -1,0 +1,21 @@
+[submodule "modules/qr-code"]
+	path = modules/qr-code
+	url = https://github.com/thaArcadeGuy/qr-code
+[submodule "modules/blog-preview-card"]
+	path = modules/blog-preview-card
+	url = https://github.com/thaArcadeGuy/blog-preview-card
+[submodule "modules/social-links-profile"]
+	path = modules/social-links-profile
+	url = https://github.com/thaArcadeGuy/social-links-profile
+[submodule "modules/recipe-page"]
+	path = modules/recipe-page
+	url = https://github.com/thaArcadeGuy/recipe-page
+[submodule "modules/product-preview"]
+	path = modules/product-preview
+	url = https://github.com/thaArcadeGuy/product-preview
+[submodule "modules/four-card-feature-section"]
+	path = modules/four-card-feature-section
+	url = https://github.com/thaArcadeGuy/four-card-feature-section
+[submodule "modules/testimonials-grid-section"]
+	path = modules/testimonials-grid-section
+	url = https://github.com/thaArcadeGuy/testimonials-grid-section
